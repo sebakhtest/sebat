@@ -9,7 +9,7 @@ lerna-debug.log*...
 # Diagnostic reports (https://nodmejs.org/api/reporgt.html)
 report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.jsong
 l
-# Runtime data.
+# Runtime data.k
 pids...
 *.pid
 *.seed///  bk
