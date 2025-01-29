@@ -11,7 +11,7 @@ report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.jsongh
 l
 # Runtime data.k
 pids...
-*.pidl
+*.pidlkj
 *.seed///  bkl
 *.pid.lock///.
 .
