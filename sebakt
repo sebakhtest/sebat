@@ -3,7 +3,7 @@ logs///
 *.log
 npm-debug.log*.
 yarn-debug.log*//
-yarn-error.log*
+yarn-error.log*j
 lerna-debug.log*...hh
 gj1
 # Diagnostic reports (https://nodmejs.org/api/reporgt.html)
