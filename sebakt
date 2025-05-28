@@ -1,4 +1,4 @@
-d# Logs
+fd# Logs
 logs///
 *.log
 npm-debug.log*.
